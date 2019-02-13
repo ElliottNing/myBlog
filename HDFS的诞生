@@ -1,0 +1,3 @@
+https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514403&idx=1&sn=c16d0a2ed2f26efa8187dd5fa0c838b3&chksm=80d67de0b7a1f4f657814b78c60fc260dc4a58656895054e9ae74a138640fea9d443efd47425&scene=21#wechat_redirect
+对HDFS是什么做了个简单了解：
+HDFS是hadoop生态的分布式文件读写系统，拥有着超高的吞吐量可以对巨量的用户日志文件进行分析。
