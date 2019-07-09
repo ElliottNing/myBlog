@@ -1,0 +1,7 @@
+大标题  
+==== 
+// 只能输入纯数字
+onkeyup="value=value.replace(/[^\d]/g,'')"
+
+// 复制的时候把除了数字以外的字符过滤掉 https://zhidao.baidu.com/question/109866090.html
+onbeforepaste="clipboardData.setData('text', clipboardData.getData('text').replace(/[^\d]/g,''))"
